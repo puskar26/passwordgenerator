@@ -49,7 +49,7 @@ npm start
 
 ### Demo
 
-[Live Demo]([https://hexlock.netlify.app/]) - Check out the live version of this password generator
+[Live Demo](https://hexlock.netlify.app/) - Check out the live version of this password generator
 
 ### License
 
